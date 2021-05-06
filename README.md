@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter & Dart & Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Check my Git testing
 
 <!---
 Jin-Korea/Jin-Korea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
